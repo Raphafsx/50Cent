@@ -1,2 +1,2 @@
 # 50Cent
-Cnady Shop
+Candy Shop
